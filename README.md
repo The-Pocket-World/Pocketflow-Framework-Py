@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/title.png" width="600"/>
 </div>
 
 
