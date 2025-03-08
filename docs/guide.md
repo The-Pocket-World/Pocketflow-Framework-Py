@@ -31,7 +31,7 @@ These system designs should be a collaboration between humans and AI assistants:
 
 2. **Utilities**: Think of the AI system as the brain for decision-making. It needs a body—these *external utility functions*—to interact with the real world:
 
-    <div align="center"><img src="https://github.com/the-pocket/PocketFlow/raw/main/assets/utility.png?raw=true" width="400"/></div>
+    <div align="center"><img src="https://github.com/The-Pocket-World/Pocketflow-Framework-Py/raw/main/assets/utility.png?raw=true" width="400"/></div>
 
     - Reading inputs (e.g., retrieving Slack messages, reading emails)
     - Writing outputs (e.g., generating reports, sending emails)
@@ -68,7 +68,7 @@ These system designs should be a collaboration between humans and AI assistants:
 
    - > **You’ll likely iterate a lot!** Expect to repeat Steps 3–6 hundreds of times.
      >
-     > <div align="center"><img src="https://github.com/the-pocket/PocketFlow/raw/main/assets/success.png?raw=true" width="400"/></div>
+     > <div align="center"><img src="https://github.com/The-Pocket-World/Pocketflow-Framework-Py/raw/main/assets/success.png?raw=true" width="400"/></div>
      {: .best-practice }
 
 7. **Reliability**  

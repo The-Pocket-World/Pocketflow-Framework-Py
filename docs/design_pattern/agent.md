@@ -36,7 +36,7 @@ Then, connect this agent node with [branching](../core_abstraction/flow.md) to o
 
 
 <div align="center">
-  <img src="https://github.com/the-pocket/PocketFlow/raw/main/assets/agent.png?raw=true" width="250"/>
+  <img src="https://github.com/The-Pocket-World/Pocketflow-Framework-Py/raw/main/assets/agent.png?raw=true" width="250"/>
 </div>
 
 
