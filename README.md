@@ -22,8 +22,6 @@ Pocket Flow is a [100-line](pocketflow_framework/__init__.py) minimalist LLM fra
   
 - To learn more, check out the [documentation](https://the-pocket-world.github.io/Pocketflow-Framework-Py/). For an in-depth design dive, read the [essay](https://github.com/The-Pocket-World/.github/blob/main/profile/pocketflow.md).
   
-- 🎉 We now have a [discord](https://discord.gg/hUHHE9Sa6T)
-
 
 ## What can Pocket Flow build?
 
